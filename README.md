@@ -1,0 +1,2 @@
+# trainingQt
+learnAndPractithInQt
